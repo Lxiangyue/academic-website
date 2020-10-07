@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3D Reconstruction, SLAM, AR and Deep Learning.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - 3D Reconstruction
@@ -61,7 +61,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
