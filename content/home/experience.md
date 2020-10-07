@@ -30,23 +30,22 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "competition"
-  company = ""
+  company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation (2/599)"
   company_url = ""
   location = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2020.3"
+  date_end = "2020.8"
   description = """
   * IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation (2/599)
-  * 2020.8
   """
 
 [[experience]]
   title = "volunteer"
-  company = ""
+  company = "volunteer of the 2nd national SLAM technology forum (Beijing)"
   company_url = ""
   location = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2019.7.27"
+  date_end = "2019.7.28"
   title = "volunteer" 
   description = """
   * volunteer of the 2nd national SLAM technology forum (Beijing)
