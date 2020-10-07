@@ -25,17 +25,14 @@ research interests:
 - SLAM & AR
 - Deep Learning
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: Master in Software Engineering
+    institution: Beihang University
+    year: 2018
+  - course: BSc in Software Engineering
+    institution: Northeast Normal University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -73,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at Software College, Beihang University under the supervision of Professor You Song. From 2014-2018 I studied at Northeast Normal University, where I received a BSc in Software Engineering.
+My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at Software College, Beihang University under the supervision of Professor You Song. 
