@@ -34,13 +34,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-03-30"
   date_end = "2020-08-21"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ """
 
 [[experience]]
   title = "Volunteer"
