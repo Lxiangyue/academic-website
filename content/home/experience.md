@@ -19,36 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "competition"
-  company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation (2/599)"
-  company_url = ""
-  location = ""
-  date_start = "2020.3"
-  date_end = "2020.8"
-  description = """
-  * IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation (2/599)
-  """
-
-[[experience]]
-  title = "volunteer"
-  company = "volunteer of the 2nd national SLAM technology forum (Beijing)"
+  title = "Intern"
+  company = "Volunteer of the 2nd national SLAM technology forum"
   company_url = ""
   location = "Beijing"
-  date_start = "2019.7.27"
-  date_end = "2019.7.28"
-  title = "volunteer" 
-  description = """
-  * volunteer of the 2nd national SLAM technology forum
-  * 2019.7.27-2019.7.28
-  """
+  date_start = "2019-07-27"
+  date_end = "2019-07-28"
+  description = """ """
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Competition"
+  company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = ""
+  date_start = "2020-03-30"
+  date_end = "2020-08-21"
   description = """
   Responsibilities include:
   
@@ -58,12 +43,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Volunteer"
+  company = "Volunteer of the 2nd national SLAM technology forum"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing"
+  date_start = "2019-07-27"
+  date_end = "2019-07-28"
+  description = """ """
 
 +++
