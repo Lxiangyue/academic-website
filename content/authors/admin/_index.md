@@ -38,13 +38,16 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: "liuxiangyue@buaa.edu.cn"
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/Lxiangyue
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "liuxiangyue@buaa.edu.cn"
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Lxiangyue
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
