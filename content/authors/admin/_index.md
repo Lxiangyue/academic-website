@@ -42,12 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "liuxiangyue@buaa.edu.cn"
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Lxiangyue
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Lxiangyue
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
