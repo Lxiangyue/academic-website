@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "liuxiangyue@buaa.edu.cn"
+  link: "#contact"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190
