@@ -1,47 +1,46 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: experience
 
-title = "Experience"
-subtitle = ""
+# Activate this widget? true/false
+active: true
 
-# Date format for experience
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
+
+# Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Research Intern"
-  company = "Volunteer of the 2nd national SLAM technology forum"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2019-07-27"
-  date_end = "2019-07-28"
-  description = """ """
-
-[[experience]]
-  title = "Competition"
-  company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)"
-  company_url = ""
-  location = ""
-  date_start = "2020-03-30"
-  date_end = "2020-08-21"
-  description = """ """
-
-[[experience]]
-  title = "Volunteer"
-  company = "Volunteer of the 2nd national SLAM technology forum"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2019-07-27"
-  date_end = "2019-07-28"
-  description = """ """
-
-+++
+#   You can begin a multiline `description` using YAML's `|-`.
+experience:
+- company: GenCoin
+  company_url: ""
+  date_end: ""
+  date_start: "2017-01-01"
+  description: |-
+    Responsibilities include:
+    * Analysing
+    * Modelling
+    * Deploying
+  location: California
+  title: CEO
+- company: University X
+  company_url: ""
+  date_end: "2016-12-31"
+  date_start: "2016-01-01"
+  description: Taught electronic engineering and researched semiconductor physics.
+  location: California
+  title: Professor
+---
