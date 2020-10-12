@@ -22,7 +22,8 @@ publication_short: In *STC*
 abstract: In this report, we introduce the 2nd place solution to the Instance Segmentation track in IJCAI-PRICAI 3D AI Challenge 2020. As getting fine object boundaries is vitally important for the large objects that count a higher proportion in this dataset, Cascade R-CNN with PointRend is selected as the base segmentation framework to output the high-quality object boundaries. Besides, a range of tricks, including focal loss, deformable convolution networks v2, are applied to improve segmentation performance. Our final submission is an ensemble of four models(three models are Mask R-CNN variants, and the other is SOLOv2), which achieve the 2nd place both in the first challenge season and the final season.
 
 # Summary. An optional shortened abstract.
-summary: In this report, we introduce the 2nd place solution to the Instance Segmentation track in IJCAI-PRICAI 3D AI Challenge 2020.
+summary: As getting fine object boundaries is vitally important for the large objects that count a higher proportion in this dataset, Cascade R-CNN with PointRend is selected as the base segmentation framework to output the high-quality object boundaries. Besides, a range of tricks, including focal loss, deformable convolution networks v2, are applied to improve segmentation performance. Our final submission is an ensemble of four models(three models are Mask R-CNN variants, and the other is SOLOv2), which achieve the 2nd place both in the first challenge season and the final season.
+
 
 tags:
 - Source Themes
