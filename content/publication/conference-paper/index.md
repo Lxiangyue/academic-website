@@ -19,10 +19,10 @@ publication_types: ["4"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this report, we introduce the 2nd place solution to the Instance Segmentation track in IJCAI-PRICAI 3D AI Challenge 2020. As getting fine object boundaries is vitally important for the large objects that count a higher proportion in this dataset, Cascade R-CNN with PointRend is selected as the base segmentation framework to output the high-quality object boundaries. Besides, a range of tricks, including focal loss, deformable convolution networks v2, are applied to improve segmentation performance. Our final submission is an ensemble of four models(three models are Mask R-CNN variants, and the other is SOLOv2), which achieve the 2nd place both in the first challenge season and the final season.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this report, we introduce the 2nd place solution to the Instance Segmentation track in IJCAI-PRICAI 3D AI Challenge 2020.
 
 tags:
 - Source Themes
