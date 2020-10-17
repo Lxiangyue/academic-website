@@ -51,10 +51,15 @@ experience:
 
 - company: "The 2nd National SLAM Technology Forum"
   company_url: ""
-#  date_end: "2019-07-28"
+  date_end: "2019-07-28"
   date_start: "2019-07-27"
-  description: """ """
+  description: |-
+    Responsibilities include:
+    * Do research on using rpr(structures combining points and lines) in SLAM.
+    * Develop rpr SLAM algorithm.
+    * Write a rpr SLAM system based on point, line, and rpr features.
   location: Beijing
   title: "Volunteer"
+
 
 ---
