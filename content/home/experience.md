@@ -35,7 +35,7 @@ experience:
     * Develop rpr SLAM algorithm.
     * Write a rpr SLAM system based on point, line, and rpr features.
   location: Beijing
-  title: Research Intern
+  title: "Research Intern"
 - company: IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)
   company_url: ""
   date_end: "2020-08-21"
@@ -46,12 +46,12 @@ experience:
     * Research models and tricks.
     * Implement some of these models and tricks(eg. MaskRCNN, Rointrend, focal loss, Resnest, mask correct).
   location: ""
-  title: Competition
+  title: "Competition"
 - company: The 2nd National SLAM Technology Forum
   company_url: ""
   date_end: "2019-07-28"
   date_start: "2019-07-27"
   description: """ """
   location: Beijing
-  title: Volunteer
+  title: "Volunteer"
 ---
