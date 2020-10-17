@@ -46,10 +46,10 @@ social:
   # link: https://github.com/Lxiangyue # 这个要整理一下再放出来
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+  link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190/
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 #- icon: twitter
 #  icon_pack: fab
