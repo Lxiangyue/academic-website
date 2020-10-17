@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,36 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Intern"
-  company = "Megvii Technology SLAM&AR Lab (leaded by Yijia He)"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "Beijing"
-  date_start = "2019-08-26"
-  date_end = "2020-04-02"
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
-  * Do research on using rpr(structures combining points and lines) in SLAM.
-  * Develop rpr SLAM algorithm.
-  * Write a rpr SLAM system based on point, line, and rpr features.
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
-  title = "Competition"
-  company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)"
+  title = "Professor"
+  company = "University X"
   company_url = ""
-  location = ""
-  date_start = "2020-03-30"
-  date_end = "2020-08-21"
-  description = """ """
-
-[[experience]]
-  title = "Volunteer"
-  company = "The 2nd National SLAM Technology Forum"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2019-07-27"
-  date_end = "2019-07-28"
-  description = """ """
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
