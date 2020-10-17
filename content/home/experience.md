@@ -53,7 +53,7 @@ experience:
   company_url: ""
   date_end: "2019-07-28"
   date_start: "2019-07-27"
-  description: """ """
+  description: |-
   location: Beijing
   title: "Volunteer"
 
