@@ -1,4 +1,4 @@
----
++++
 # An instance of the Experience widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: experience
@@ -56,4 +56,4 @@ date_format: Jan 2006
   date_start = "2019-07-27"
   date_end = "2019-07-28"
   description = """ """
----
++++
