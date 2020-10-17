@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "SLAM&AR Group in Megvii Technology SLAM&AR Lab (leaded by Yijia He)"
   company_url = ""
   location = "Beijing"
-  date_start = "2019-08"
-  date_end = "2020-04"
+  date_start = "2019-08-01"
+  date_end = "2020-04-30"
   description = """ """
 
 [[experience]]
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   company = "The 2nd National SLAM Technology Forum"
   company_url = ""
   location = "Beijing"
-  date_start = "2019-07"
-  date_end = "2019-07"
+  date_start = "2019-07-27"
+  date_end = "2019-07-28"
   description = """ """
 
 +++
