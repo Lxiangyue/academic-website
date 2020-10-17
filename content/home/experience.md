@@ -25,6 +25,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
+- company: IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)
+  company_url: ""
+  date_end: "2020-08-21"
+  date_start: "2020-03-30"
+  description: |-
+    Responsibilities include:
+    * Data analysis and preprocessing.
+    * Research models and tricks.
+    * Implement some of these models and tricks(eg. MaskRCNN, Rointrend, focal loss, Resnest, mask correct).
+  location: 
+  title: Competition
+
 - company: GenCoin
   company_url: ""
   date_end: ""
