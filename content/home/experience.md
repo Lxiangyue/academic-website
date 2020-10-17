@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "Volunteer of the 2nd national SLAM technology forum"
+  company = "SLAM&AR Group in Megvii Technology SLAM&AR Lab (leaded by Yijia He)"
   company_url = ""
   location = "Beijing"
-  date_start = "2019-07-27"
-  date_end = "2019-07-28"
+  date_start = "2019-08"
+  date_end = "2020-04"
   description = """ """
 
 [[experience]]
@@ -37,11 +37,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Volunteer"
-  company = "Volunteer of the 2nd national SLAM technology forum"
+  company = "The 2nd National SLAM Technology Forum"
   company_url = ""
   location = "Beijing"
-  date_start = "2019-07-27"
-  date_end = "2019-07-28"
+  date_start = "2019-07"
+  date_end = "2019-07"
   description = """ """
 
 +++
