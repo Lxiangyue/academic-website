@@ -24,39 +24,6 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
-[[experience]]
-  title = "Research Intern"
-  company = "Megvii Technology SLAM&AR Lab (leaded by Yijia He)"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2019-08-26"
-  date_end = "2020-04-02"
-  description = """
-  Responsibilities include:
-  
-  * Do research on using rpr(structures combining points and lines) in SLAM.
-  * Develop rpr SLAM algorithm.
-  * Write a rpr SLAM system based on point, line, and rpr features.
-  """
-
-[[experience]]
-  title = "Competition"
-  company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)"
-  company_url = ""
-  location = ""
-  date_start = "2020-03-30"
-  date_end = "2020-08-21"
-  description = """ """
-
-[[experience]]
-  title = "Volunteer"
-  company = "The 2nd National SLAM Technology Forum"
-  company_url = ""
-  location = "Beijing"
-  date_start = "2019-07-27"
-  date_end = "2019-07-28"
-  description = """ """
-
 experience:
 - company: Megvii Technology SLAM&AR Lab (leaded by Yijia He)
   company_url: ""
