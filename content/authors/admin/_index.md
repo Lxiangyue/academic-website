@@ -11,7 +11,7 @@ role: Postgraduate of Software Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Beihang University
-  url: https://ev.buaa.edu.cn/
+#  url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3D Reconstruction, SLAM, AR and Deep Learning.
@@ -47,6 +47,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190
+ - icon: cv
+   icon_pack: ai
+   link: media/resume.pdf
 
 #- icon: twitter
 #  icon_pack: fab
@@ -75,6 +78,6 @@ user_groups:
 - Principal Investigators
 ---
 
-My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at Software College, Beihang University under the supervision of Professor [You Song](http://t.beihangsoft.cn/songyou/). My research interests focus on 3D Reconstruction, SLAM, AR, and Deep Learning. Please feel free to contact me if you have any questions.
+My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at Software College, [Beihang University](https://ev.buaa.edu.cn/) under the supervision of Professor [You Song](http://t.beihangsoft.cn/songyou/). My research interests focus on 3D Reconstruction, SLAM, AR, and Deep Learning. Please feel free to contact me if you have any questions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
