@@ -24,13 +24,14 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2019-08-26"
   date_end = "2020-04-02"
-  description = """ 
-  description: |-
-    Responsibilities include:
-    * Do research on using rpr(structures combining points and lines) in SLAM.
-    * Develop rpr SLAM algorithm.
-    * Write a rpr SLAM system based on point, line, and rpr features.
-	"""
+  description = """
+  Responsibilities include:
+  
+  * Do research on using rpr(structures combining points and lines) in SLAM.
+  * Develop rpr SLAM algorithm.
+  * Write a rpr SLAM system based on point, line, and rpr features.
+  """
+
 [[experience]]
   title = "Competition"
   company = "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)"
