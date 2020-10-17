@@ -46,9 +46,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E8%A5%84%E9%98%85-%E5%88%98-9007a3190/
-- icon: cv
-  icon_pack: ai
-  link: files/cv_lxy.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv_lxy.pdf
 
 #- icon: twitter
 #  icon_pack: fab
