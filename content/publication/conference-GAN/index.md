@@ -56,7 +56,7 @@ url_video: ''
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
-  placement: 2
+  placement: 1
   caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
   focal_point: "Center"
   preview_only: false
