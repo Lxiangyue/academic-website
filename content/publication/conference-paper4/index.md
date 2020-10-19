@@ -13,7 +13,7 @@ date: "2020-10-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). # 这个时间很重要，必须要写，且不可以迟于上面的时间
-publishDate: "2020-10-30T00:00:00Z"
+publishDate: "2020-09-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
