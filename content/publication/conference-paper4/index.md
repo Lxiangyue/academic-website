@@ -25,10 +25,11 @@ publication_types: ["4"]
 publication: In *Source Themes Conference*
 publication_short: In *IJCAI-PRICAI 2020 Workshop*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Compared with MS-COCO datasets, the 3D FUTURE has a larger proportion of large objects which area is greater than 96×96 pixels. As getting fine boundaries is vitally important for large object segmentation, Mask R-CNN with PointRend is selected as the base segmentation framework to output high-quality object boundaries. Besides, a better engine that integrates ResNeSt, FPN and
+DCNv2 and a range of effective tricks that including multi-scale training and test time augmentation are applied to improve segmentation performance. Our best performance is an ensemble of four models (three PointRend-based models and SOLOv2), which won the 2nd place in IJCAI-PRICAI 3D AI Challenge 2020: Instance Segmentation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
