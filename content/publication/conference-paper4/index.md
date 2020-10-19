@@ -41,7 +41,7 @@ links:
 url_pdf: '#'
 url_code: ''
 url_dataset: https://arxiv.org/abs/2009.09633
-url_poster: '#'
+url_poster:  "files/ijcai_poster.pdf"
 url_project: ''
 url_slides: ''
 url_source: ''
