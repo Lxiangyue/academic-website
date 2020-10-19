@@ -22,7 +22,7 @@ publishDate: "2020-09-30T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
+publication: In *IJCAI-PRICAI 2020 Workshop*
 publication_short: In *IJCAI-PRICAI 2020 Workshop*
 
 abstract: Compared with MS-COCO datasets, the 3D FUTURE has a larger proportion of large objects which area is greater than 96×96 pixels. As getting fine boundaries is vitally important for large object segmentation, Mask R-CNN with PointRend is selected as the base segmentation framework to output high-quality object boundaries. Besides, a better engine that integrates ResNeSt, FPN and

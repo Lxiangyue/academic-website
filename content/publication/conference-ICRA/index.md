@@ -4,7 +4,10 @@ authors:
 - Yijia He
 - admin
 - Ji Zhao
-date: "2020-10-31T00:00:00Z"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2021-05-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). # 这个时间很重要，必须要写，且不可以迟于上面的时间
@@ -27,7 +30,7 @@ summary:
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 # - name: Custom Link
