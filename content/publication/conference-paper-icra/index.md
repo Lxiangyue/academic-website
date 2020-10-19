@@ -7,11 +7,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2021-3-31T00:00:00Z"
+date: "2021-05-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). # 这个时间很重要，必须要写，且不可以迟于上面的时间
-publishDate: "2021-01-31T00:00:00Z"
+publishDate: "2020-09-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +21,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name. # 这里的第一行写什么？？？？
 publication: In *Source Themes Conference*
-publication_short: In *International Conference on Robotics and Automation (ICRA)*
+publication_short: In *International Conference on Robotics and Automation (ICRA) (Submitted)*
 
 abstract: 
 
