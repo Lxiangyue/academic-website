@@ -1,14 +1,9 @@
 ---
 title: "An example conference paper"
 authors:
-- Kai Jiang
-- admin
-- Zheng Ju
-- Xiang Luo
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- Yijia He
+- Xiangyue Liu*
+- Ji Zhao
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
