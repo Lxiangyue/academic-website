@@ -1,8 +1,10 @@
 ---
 title: "2nd Place Solution to Instance Segmentation of IJCAI 3D AI Challenge 2020"
 authors:
+- Kai Jiang
 - admin
-- Robert Ford
+- Zheng Ju
+- Xiang Luo
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
