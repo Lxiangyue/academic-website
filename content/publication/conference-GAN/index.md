@@ -6,7 +6,7 @@ authors:
 - Jingwei Yang
 - Li Deng
 - You Song
-date: "2020-10-31T00:00:00Z"
+date: "2020-03-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date). # 这个时间很重要，必须要写，且不可以迟于上面的时间
@@ -16,14 +16,16 @@ publishDate: "2020-09-30T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *IJCAI-PRICAI 2020 Workshop*
+publication: 
+publication_short: 
 
-abstract: Compared with MS-COCO datasets, the 3D FUTURE has a larger proportion of large objects which area is greater than 96×96 pixels. As getting fine boundaries is vitally important for large object segmentation, Mask R-CNN with PointRend is selected as the base segmentation framework to output high-quality object boundaries. Besides, a better engine that integrates ResNeSt, FPN and
-DCNv2 and a range of effective tricks that including multi-scale training and test time augmentation are applied to improve segmentation performance. Our best performance is an ensemble of four models (three PointRend-based models and SOLOv2), which won the 2nd place in IJCAI-PRICAI 3D AI Challenge 2020: Instance Segmentation.
+abstract: Low frequency detection on the back of the moon is a research hotspot in recent years, and the Chang'e project in China has taken a step forward to it. In March 2018, The Chinese Academy of Sciences launched a pilot project of space science, which is ultra-long wavelength astronomical observation array background model project (known as "Hongmeng Project" in China). The ultra-long wavelength astronomical observation array consists of one mother satellite and eight daughter satellites, forming a spatially distributed interference array in the lunar orbit. Shielded from the Earth-originated radio frequency interferences, this mission will discovery the unexplored part of electromagnetic spectrum, and will become a milestone in radio astronomy and space exploration. 
+Mapping the sky below 30 MHz using the array of satellites is a major goal of this mission. In order to obtain the whole high-accuracy sky map, conventional method is to continuously increase the satellites’ sampling time, so that the sampling data can approach to the full sampling data step by step.
+A novel sky map repair method based on generative adversarial networks is  proposed by this paper. Generative adversary networks consist of a generator network and a discriminator network, which can achieve image-to-image translation by learning the correspond from image-to-image. Thus, this network can obtain the high-precision sky map from the low-precision sky map. Firstly, using the radio astronomy imaging algorithm to get low-precision sky maps from satellites’ sampling data. Then, the generative adversary networks are trained with the low-precision sky maps and the correspond high-accuracy sky maps as training sets. Finally, another set of low-precision sky maps are used as the test sets to evaluate the network results by comparing the similarity between the outputs of the networks with the high-precision sky maps. 
+The simulation results show that the sky map obtained by this method is more similar to the whole high-precision sky map than conventional method both in the peak signal-to-noise ratio and in the structural similarity, which means that this method can achieve more accurate sky map than conventional method.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -37,8 +39,8 @@ links:
 #  url: http://example.org
 url_pdf: '#'
 url_code: ''
-url_dataset: https://arxiv.org/abs/2009.09633
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
