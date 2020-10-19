@@ -19,8 +19,8 @@ publishDate: "2020-09-30T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: ""
+publication_short: ""
 
 abstract: Low frequency detection on the back of the moon is a research hotspot in recent years, and the Chang'e project in China has taken a step forward to it. In March 2018, The Chinese Academy of Sciences launched a pilot project of space science, which is ultra-long wavelength astronomical observation array background model project (known as "Hongmeng Project" in China). The ultra-long wavelength astronomical observation array consists of one mother satellite and eight daughter satellites, forming a spatially distributed interference array in the lunar orbit. Shielded from the Earth-originated radio frequency interferences, this mission will discovery the unexplored part of electromagnetic spectrum, and will become a milestone in radio astronomy and space exploration. 
 Mapping the sky below 30 MHz using the array of satellites is a major goal of this mission. In order to obtain the whole high-accuracy sky map, conventional method is to continuously increase the satellites’ sampling time, so that the sampling data can approach to the full sampling data step by step.
