@@ -20,7 +20,7 @@ publishDate: "2020-09-30T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICRA 2021*
+publication: In *ICRA 2021 (Submitted)*
 publication_short: In *International Conference on Robotics and Automation (ICRA) (Submitted)*
 
 abstract: How to use the constraint of intersection of straight lines in 3D reconstruction mainly involves two problems, one is how to express the intersection of straight lines, and the other is whether the intersection of straight lines can be used to estimate the camera pose and how to use it. In this paper, we conduct formula derivation and experimental verification for these two problems. And we propose three main innovations in this paper, (a) A minimum parameterized representation method for rpr structure and a triangulation method. (b) An efficient camera pose estimation method based on 1 rpr90 + 1 point is proposed. By directly solving a one-variable quartic equation, the camera pose is solved efficiently and stably. (c) A straight line slam algorithm considering the intersection constraint of straight lines is built and verified on different datasets.

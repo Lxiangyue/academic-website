@@ -6,7 +6,7 @@ title: Xiangyue Liu
 superuser: true
 
 # Role/position/tagline
-role: Postgraduate of Software Engineering
+role: Postgraduate of School of Software
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
 #  url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3D Reconstruction, SLAM, AR and Deep Learning.
+bio: My research interests include 3D Reconstruction, SLAM, AR, and Deep Learning.
 
 # Interests to show in About widget
 interests:
@@ -25,10 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master in Software Engineering
+  - course: Master in School of Software
     institution: Beihang University
     year: 2018
-  - course: BSc in Software Engineering
+  - course: BSc in School of Software
     institution: Northeast Normal University
     year: 2014
 
