@@ -31,21 +31,21 @@ experience:
   date_start: "2020-03-30"
   description: |-
     Responsibilities include:
-    * Data analysis and preprocessing.
-    * Research models and tricks.
-    * Implement some of these models and tricks(eg. MaskRCNN, Rointrend, focal loss, Resnest, mask correct).
+    * Data analysis, pre-processing, and post-processing.
+    * Do the research on models and tricks.
+    * Implement some models and tricks (eg. MaskRCNN, PointRend, focal loss, TTA).
   location: 
   title: Competition
 
-- company: "Megvii Technology SLAM&AR Lab (leaded by Yijia He)"
+- company: "Megvii SLAM&AR Lab (leaded by Yijia He)"
   company_url: ""
   date_end: "2020-04-02"
   date_start: "2019-08-26"
   description: |-
     Responsibilities include:
-    * Do research on using rpr(structures combining points and lines) in SLAM.
-    * Develop rpr SLAM algorithm.
-    * Write a rpr SLAM system based on point, line, and rpr features.
+    * Do the research on using RPR (structures combining points and lines) in SLAM.
+    * Develop RPR SLAM algorithm.
+    * Write a SLAM system based on point, line, and RPR features.
   location: Beijing
   title: "Research Intern"
 
