@@ -27,7 +27,7 @@ abstract: Low frequency exploration is becoming a research hotspot. It is possib
 
 
 # Summary. An optional shortened abstract.
-summary: This paper proposes a baseline density distribution optimization algorithm based on particle swarm. The algorithm continuously adjusts the initial deployment position of the satellite formation and optimizes the baseline distribution to conform to the image spectral distribution law. The content of this thesis mainly includes three parts, firstly determine the evaluation index, use dynamic time warping algorithm and other different standards to conduct experimental research; then, based on the particle swarm optimization algorithm, conduct solution search in six-dimensional space, repeatedly adjust parameters, and find Optimal solution; finally check the effect and interpretability of the algorithm, we analyze the peak signal-to-noise ratio of the image, the distribution of brightness temperature particles and the root mean square error of the inverted image and the original sky map. 
+summary: This paper proposes a baseline density distribution optimization algorithm based on particle swarm. The algorithm continuously adjusts the initial deployment position of the satellite formation and optimizes the baseline distribution to conform to the image spectral distribution law. 
 
 tags:
 - Source Themes

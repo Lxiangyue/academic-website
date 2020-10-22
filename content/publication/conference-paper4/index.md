@@ -38,7 +38,7 @@ featured: true
 links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: '#'
+url_pdf: https://arxiv.org/abs/2010.10957
 url_code: ''
 url_dataset: https://arxiv.org/abs/2009.09633
 url_poster:  "files/ijcai_poster.pdf"
