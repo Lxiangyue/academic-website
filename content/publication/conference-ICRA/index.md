@@ -43,7 +43,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: '#'
+url_video: 'files/sequence(10.28)_medium_bit_rate.mp4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
