@@ -77,5 +77,4 @@ user_groups:
 - Principal Investigators
 ---
 
-My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at School of Software, Beihang University. My research interests focus on 3D Reconstruction, SLAM, AR, and Deep Learning. And I have done projects and researches involving SLAM, GAN, and Instance Segmentation during my postgraduate. Please feel free to contact me if you are interested.
-
+My name is Xiangyue Liu. I'm currently a Master student at School of Software, Beihang University. My research interests focus on 3D Vision, including Visual SLAM, Dense Reconstruction, Instance Segmentation, and Deep Learning. Please feel free to contact me if you are interested.
