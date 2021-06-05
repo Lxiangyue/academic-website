@@ -1,61 +1,44 @@
----
-# An instance of the Experience widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: experience
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-# Activate this widget? true/false
-active: true
+title = "Experience"
+subtitle = ""
 
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 40
-
-title: Experience
-subtitle:
-
-# Date format
+# Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format: Jan 2006
+date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `experience` blocks below as you like.
+#   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   You can begin a multiline `description` using YAML's `|-`.
-experience:
-- company: "IJCAI-PRICAI 2020 3D AI Challenge: Instance Segmentation(2/599)"
-  company_url: ""
-  date_end: "2020-08-21"
-  date_start: "2020-03-30"
-  description: |-
-    Responsibilities include:
-    * Data analysis, pre-processing, and post-processing.
-    * Do the research on models and tricks.
-    * Implement some models and tricks (eg. MaskRCNN, PointRend, focal loss, TTA).
-  location: 
-  title: Competition
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
-- company: "Megvii SLAM&AR Lab (leaded by Yijia He)"
-  company_url: ""
-  date_end: "2020-04-02"
-  date_start: "2019-08-26"
-  description: |-
-    Responsibilities include:
-    * Do the research on using RPR (structures combining points and lines) in SLAM.
-    * Develop RPR SLAM algorithm.
-    * Write a SLAM system based on point, line, and RPR features.
-  location: Beijing
-  title: "Research Intern"
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
-- company: "The 2nd National SLAM Technology Forum"
-  company_url: ""
-  date_end: "2019-07-28"
-  date_start: "2019-07-27"
-  description: |-
-  location: Beijing
-  title: "Volunteer"
-
-
----
++++
